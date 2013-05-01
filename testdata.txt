@@ -1,0 +1,8 @@
+Add Lenny 4111111111111111 $1000
+Add Tracy 5454545454545454 $3000
+Add Robert 1234567890123456 $2000
+Charge Lenny $500
+Charge Lenny $800
+Charge Tracy $7
+Credit Tracy $100
+Credit Robert $200
