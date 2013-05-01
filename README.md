@@ -1,5 +1,3 @@
-Interview Questions.
-
 PRE-REQUISITES AND ASSUMPTIONS:
 ===============================
 
@@ -13,7 +11,7 @@ Set your GOPATH to the directory containing src
 
 e.g. export GOPATH=`pwd`
 
-go install mindshrub
+go install noodle
 
 HOW TO RUN:
 ===========
