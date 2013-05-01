@@ -10,8 +10,8 @@ import (
 func Summary(balances map[string]*account.Balance) string {
 	var sorted account.Balances = make(account.Balances, len(balances))
 	index := 0
-	for i := range balances {
-		sorted[index] = balances[i]
+	for key := range balances {
+		sorted[index] = balances[key]
 		index += 1
 	}
 	sort.Sort(account.ByName{sorted})

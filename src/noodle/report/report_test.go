@@ -1,7 +1,7 @@
 package report
 
 import (
-	"mindshrub/account"
+	"noodle/account"
 	"testing"
 )
 
